@@ -32,7 +32,8 @@ A Web application that allows you to store the next books you want to read in fo
 
 ## Tools & Languages used:
 
-- JavaScript (Vuejs)
+- Vuejs (JavaScript Front-End Framework)
+- Materialize (CSS Framework)
 - Cloud Firestore (Database)
 - Slugify (npm package)
 
